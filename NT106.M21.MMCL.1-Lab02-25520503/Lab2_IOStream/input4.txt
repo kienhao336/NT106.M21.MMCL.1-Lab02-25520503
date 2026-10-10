@@ -1,0 +1,38 @@
+[
+  {
+    "Name": "Nguyễn Văn A",
+    "ID": 25520001,
+    "Phone": "0123456789",
+    "Course1": 7,
+    "Course2": 8,
+    "Course3": 9,
+    "Average": 0
+  },
+  {
+    "Name": "Nguyễn Văn B",
+    "ID": 25520002,
+    "Phone": "0123456789",
+    "Course1": 7,
+    "Course2": 8,
+    "Course3": 9,
+    "Average": 0
+  },
+  {
+    "Name": "Nguyễn Văn C",
+    "ID": 25520003,
+    "Phone": "0123456789",
+    "Course1": 7,
+    "Course2": 8,
+    "Course3": 9,
+    "Average": 0
+  },
+  {
+    "Name": "Nguyễn Văn D",
+    "ID": 25520004,
+    "Phone": "0123456789",
+    "Course1": 7,
+    "Course2": 8,
+    "Course3": 9,
+    "Average": 0
+  }
+]

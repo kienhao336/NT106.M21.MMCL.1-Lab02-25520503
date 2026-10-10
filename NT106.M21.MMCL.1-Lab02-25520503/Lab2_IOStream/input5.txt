@@ -1,0 +1,26 @@
+﻿[
+  {
+    "TenPhim": "Đào, phở và piano",
+    "GiaChuan": 45000,
+    "PhongChieu": [1, 2, 3],
+    "VeDaBan": ["A1", "B2", "B3", "C5"]
+  },
+  {
+    "TenPhim": "Mai",
+    "GiaChuan": 100000,
+    "PhongChieu": [2, 3],
+    "VeDaBan": ["A2", "A3", "B2", "B3", "B4", "C1"]
+  },
+  {
+    "TenPhim": "Gặp lại chị bầu",
+    "GiaChuan": 70000,
+    "PhongChieu": [1],
+    "VeDaBan": ["A1", "A2"]
+  },
+  {
+    "TenPhim": "Tarot",
+    "GiaChuan": 90000,
+    "PhongChieu": [3],
+    "VeDaBan": ["B2", "B3"]
+  }
+]
